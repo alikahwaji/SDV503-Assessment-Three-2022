@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [SDV503teams](https://teams.microsoft.com/l/channel/19%3ad8a4aa8ce3c34cef88897aa8955767f3%40thread.tacv2/General?groupId=fc1c6d2c-7a94-4fe4-b9c8-a930f6d56956&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [SDV503teams](https://teams.microsoft.com/l/channel/19%3adM8_WyFnk00MGHARZLQZrcWvUAFZbatGzIlZEKOQQnc1%40thread.tacv2/General?groupId=0f0941d0-346e-4ca2-9663-a09899cb2cb8&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
@@ -50,8 +50,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Assessment Three Description
 
-:arrow_right: Assessment Assessment Outline is provided in this README file, SDV503 Moodle. Follow the Assessment 
-              outline tasks and marking rubric
+:arrow_right:  Assessment Outline is provided in this README file and SDV503 Moodle page. Follow the assessment outline tasks and marking rubric.
 
 
 :arrow_right: You MUST follow the GitHub classroom repo instrucation provided in the repo README file.
