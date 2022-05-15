@@ -58,7 +58,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EQA9WEUtU_tDjaWlLF2BXskB0IBgxezrPwWMz2Oa-ylhXQ?e=dNPOdn)|[C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EZMY43u2GB1Lt_0wZ2RRO6AByYFPYEd9jL1n24s5WvhBgQ?e=vT1Djl)|[C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)|
 |---|---|---|---|
 
 
