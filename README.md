@@ -50,8 +50,8 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Assessment Three Description
 
-:arrow_right: Assessment Assessment Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
-              outline timeline and marking rubric
+:arrow_right: Assessment Assessment Outline is provided in this README file, SDV503 Moodle. Follow the Assessment 
+              outline tasks and marking rubric
 
 
 :arrow_right: You MUST follow the GitHub classroom repo instrucation provided in the repo README file.
